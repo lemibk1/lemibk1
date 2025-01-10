@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemibk1" alt="lemibk1" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PHP,FLUTTER**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemibk1](https://github.com/lemibk1)
 
