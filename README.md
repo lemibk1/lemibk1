@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemibk1](https://github.com/lemibk1)
+- 
+- 👨‍💻  my previous projects are available at [https://github.com/lemibk1](https://github.com/lemibk)
 
 - 📫 How to reach me **lemibidikasenbeta@gmail.com**
 
